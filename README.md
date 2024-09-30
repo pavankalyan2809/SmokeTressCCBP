@@ -1,4 +1,4 @@
-mokeTrees Backend & Frontend Project
+SmokeTrees Backend & Frontend Project
 
 Project Overview
 
